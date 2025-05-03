@@ -1,6 +1,4 @@
-# MERN Stack Project: Build and Deploy a Twitter Clone From Scratch | JWT, Socket.io
-
-![Demo App](https://i.ibb.co/f8y9vGS/Group-82.png)
+# MERN Stack Project: Build and Deploy a Twitter Clone From Scratch | 
 
 Some Features:
 
